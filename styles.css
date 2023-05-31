@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+h1,h2 {
+    text-align: center;
+    color: hotpink;
+    tab-size: 25px;
+}
+
